@@ -124,4 +124,4 @@ Example:
 [![Build Status](https://img.shields.io/travis/user/repo/master)](https://travis-ci.org/user/repo)  
 ```  
 
-Now you’re ready to create a **professional README.md**! 🚀
+
